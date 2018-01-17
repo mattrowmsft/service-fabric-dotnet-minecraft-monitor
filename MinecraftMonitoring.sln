@@ -7,6 +7,8 @@ Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "MinecraftMonitoring", "Mine
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinecraftPopulationMonitor", "MinecraftPopulationMonitor\MinecraftPopulationMonitor.csproj", "{B54654F6-E26B-4AB3-842D-4FC7FCBF533F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineMonitoring", "MachineMonitoring\MachineMonitoring.csproj", "{5E522391-ECE3-4F99-8536-450738BA7146}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,6 +25,10 @@ Global
 		{B54654F6-E26B-4AB3-842D-4FC7FCBF533F}.Debug|x64.Build.0 = Debug|x64
 		{B54654F6-E26B-4AB3-842D-4FC7FCBF533F}.Release|x64.ActiveCfg = Release|x64
 		{B54654F6-E26B-4AB3-842D-4FC7FCBF533F}.Release|x64.Build.0 = Release|x64
+		{5E522391-ECE3-4F99-8536-450738BA7146}.Debug|x64.ActiveCfg = Debug|x64
+		{5E522391-ECE3-4F99-8536-450738BA7146}.Debug|x64.Build.0 = Debug|x64
+		{5E522391-ECE3-4F99-8536-450738BA7146}.Release|x64.ActiveCfg = Release|x64
+		{5E522391-ECE3-4F99-8536-450738BA7146}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

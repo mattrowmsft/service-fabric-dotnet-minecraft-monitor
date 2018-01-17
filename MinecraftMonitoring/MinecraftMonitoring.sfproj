@@ -32,6 +32,7 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\MachineMonitoring\MachineMonitoring.csproj" />
     <ProjectReference Include="..\MinecraftPopulationMonitor\MinecraftPopulationMonitor.csproj" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
